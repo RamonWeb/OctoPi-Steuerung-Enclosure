@@ -6,4 +6,5 @@ OctoPi control housing / box for IKEA-LACK Enclosure Planning and construction o
 Version 2 with a little more space ... incl. Holder for power supply.
 
 https://www.thingiverse.com/thing:4960603
+https://www.crealitycloud.com/model-detail/616ffc750bfa2e82df800470
 
